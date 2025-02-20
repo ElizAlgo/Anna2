@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header  {
+  background-color: pink;
+}
+header a {
+ color: black; 
+}
+header img {
+  margin: 10px;  
+}
+footer{
+  background-color: pink;
+}
+footer p{ 
+ background-color: white;
+}
+nav{
+  background-color: pink;
+}
+nav a{
+  color: black;
+  margin: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 3px solid navajowhite;
+  background-color: palevioletred;
+  border-radius: 10px;
+
+}
+.price {
+  background-color: white;
+  border: 3px solid navajowhite;
+  color: black;
+}
+main h1{
+ color: blueviolet; 
+}
+main h2{
+  color: rgb(160, 122, 144); 
+  font-size: 30px;
+  font-family: fantasy;
+}
+main a {
+  color: black;
+  background-color: pink;
+}
+.special {
+  color: blueviolet;
+}
+.one{
+  background-color: palevioletred;
+  color: black;
+}
+.two{
+  width: 70px;
+  height: 70px;
+}
